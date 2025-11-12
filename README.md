@@ -10,3 +10,11 @@ Report the voltage after: 0.25, 0.5, and 1.0 seconds (give values to 2 decimal p
 How long does it take for the voltage to reach 8.0 Volts? (give answer to 2 decimal places)
 Plot the voltage V(t) for the first one second. Set the range of the vertical axis from 0 to 10 V. Include
 a grid, title, and axis labels
+# Temperature Application
+The equation for the temperature T of a certain object immersed in a liquid bath of constant temperature, Tb, is
+10 𝑑T/dt + T =Tb
+The initial temperature of the object is 70 ̊F and the bath temperature is 170 ̊F
+Report the temperature after 10, 20, and 40 seconds
+How long does it take for the object to reach 160 ̊F? (Give answer to one decimal place.)
+Plot the function for T(t) for the first 40 seconds. Set the range of the vertical axis from 0 to 180 ̊C.
+Include a grid, title, and axis labels.
